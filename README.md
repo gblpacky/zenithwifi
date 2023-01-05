@@ -1,6 +1,6 @@
-# Smert Security
 # Zenith-Wifi
-# Happy Hacking! (Ethically.... ^u´)
+
+# 🇭 🇦 🇵 🇵 🇾  🇭 🇦 🇨 🇰 🇮 🇳 🇬 !
 
 #Developed by Kaonashi
 

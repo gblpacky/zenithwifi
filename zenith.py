@@ -7,7 +7,6 @@ import subprocess
 import time
 import signal
 import argparse
-import git
 
 # Global Variable
 global netInterfaceName
